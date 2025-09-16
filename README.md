@@ -1,16 +1,27 @@
-## Hi there 👋
+# 🔑 ChavesAutoBarros
 
-<!--
-**chavesautobarros/ChavesAutoBarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao repositório oficial da **ChavesAutoBarros** 🚗✨  
 
-Here are some ideas to get you started:
+Somos especialistas em:
+- Programação e cópia de chaves automotivas  
+- Reprogramação de imobilizadores  
+- Soluções avançadas em eletrónica automóvel  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📍 Localização
+📌 Ramada, Portugal  
+
+## 📞 Contactos
+- 📱 Telefone: 967 746 624  
+- 💬 WhatsApp: 928 286 228  
+- 📧 E-mail: chavesautobarros@gmail.com  
+
+---
+
+## 💡 Missão
+Ajudar clientes a resolver problemas de chaves e eletrónica automóvel com profissionalismo, rapidez e confiança.  
+
+---
+
+© 2025 ChavesAutoBarros. Todos os direitos reservados.

@@ -1,31 +1,39 @@
 <p align="center">
-  <img src="logo.png" alt="ChavesAutoBarros" width="200"/>
+  <img src="logo.png" alt="ChavesAutoBarros" width="250"/>
 </p>
 
-# 🔑 ChavesAutoBarros
+# 🔑 ChavesAutoBarros  
 
-Bem-vindo ao repositório oficial da **ChavesAutoBarros** 🚗✨  
-
-Somos especialistas em:
-- Programação e cópia de chaves automotivas  
-- Reprogramação de imobilizadores  
-- Soluções avançadas em eletrónica automóvel  
+🚗 **Reprogramação e cópia de chaves automotivas**  
+🔧 Eletrónica automóvel | Programação de imobilizadores | Soluções avançadas  
 
 ---
 
-## 📍 Localização
+## 📍 Localização  
 📌 Ramada, Portugal  
 
-## 📞 Contactos
-- 📱 Telefone: 967 746 624  
-- 💬 WhatsApp: 928 286 228  
-- 📧 E-mail: chavesautobarros@gmail.com  
+---
+
+## 📞 Contactos  
+- 📱 **Telefone:** 967 746 624  
+- 💬 **WhatsApp:** [928 286 228](https://wa.me/351928286228)  
+- 📧 **E-mail:** chavesautobarros@gmail.com  
 
 ---
 
-## 💡 Missão
-Ajudar clientes a resolver problemas de chaves e eletrónica automóvel com profissionalismo, rapidez e confiança.  
+## 🔧 Serviços
+- Programação e cópia de chaves automotivas  
+- Reprogramação de imobilizadores (CAS, FEM, EZS, BSI, etc.)  
+- Reparação e soluções em eletrónica automóvel  
+- Códigos e corte de lâminas de emergência  
 
 ---
 
-© 2025 ChavesAutoBarros. Todos os direitos reservados.
+## 🌐 Links úteis
+- 🌍 [Website oficial](http://www.chavesautobarros.pt)  
+- ⭐ [Deixe a sua avaliação no Google](https://g.page/r/Cb7MvhTbBSVJEBI/review)  
+- 📘 [Facebook](https://facebook.com/ChavesAutoBarros)  
+
+---
+
+<p align="center">© 2025 ChavesAutoBarros. Todos os direitos reservados.</p>

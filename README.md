@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="ChavesAutoBarros" width="200"/>
+</p>
+
 # 🔑 ChavesAutoBarros
 
 Bem-vindo ao repositório oficial da **ChavesAutoBarros** 🚗✨  

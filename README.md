@@ -32,7 +32,7 @@
 ## 🌐 Links úteis
 - 🌍 [Website oficial](http://www.chavesautobarros.pt)  
 - ⭐ [Deixe a sua avaliação no Google](https://g.page/r/Cb7MvhTbBSVJEBI/review)  
-- 📘 [Facebook](https://facebook.com/ChavesAutoBarros)  
+- 📘 [Facebook](https://www.facebook.com/profile.php?id=61569593258687)  
 
 ---
 
